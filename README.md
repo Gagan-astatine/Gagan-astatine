@@ -44,6 +44,11 @@ CURRENT FOCUS:
 
 ---
 
+<details>
+<summary><h1 style="display: inline; color: #00FF00;">READ MORE</h1></summary>
+
+---
+
 # <span style="color: #00FF00;">LIVE TERMINAL</span>
 
 <p align="center">
@@ -53,11 +58,6 @@ LOADING PROJECTS...
 READY FOR ACTION
 
 </p>
-
----
-
-<details>
-<summary><h1 style="display: inline; color: #00FF00;">📖 READ MORE</h1></summary>
 
 ---
 
