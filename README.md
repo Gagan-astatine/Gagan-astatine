@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING+PRODUCTS+FOR+REAL-WORLD+PROBLEMS;CURRENT+FOCUS:+AI+AGENTS;HACKATHONS+%7C+STARTUPS+%7C+INNOVATION;FLAGSHIP+PROJECT:+IGNIS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING[...]
 
 <br>
 
@@ -42,7 +42,7 @@ CURRENT FOCUS:
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;LOADING+PROJECTS...;BUILDING+IGNIS...;EXPLORING+AI+AGENTS...;PARTICIPATING+IN+HACKATHONS...;READY." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;LOADING+PROJECTS...;B[...]
 
 </p>
 
@@ -94,15 +94,11 @@ Render
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true" width="32%" />
 
-<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true" width="32%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
-<br><br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true" width="32%" />
 
 </p>
 
@@ -142,7 +138,7 @@ https://www.linkedin.com/in/gaganastatine
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-WORLD+PROBLEMS;MISSION+ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-[...]
 
 </div>
 
