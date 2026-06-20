@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/jarvis_neon_hud.gif" width="100%" />
+<img src="./assets/jarvis_neon_hud.gif" width="100%">
 
 <br>
 
