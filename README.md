@@ -1,189 +1,123 @@
 <div align="center">
 
-# GAGAN ASTATINE
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-WORLD+PROBLEMS;CURRENT+FOCUS:+AI+AGENTS;HACKATHONS+%7C+STARTUPS+%7C+INNOVATION;FLAGSHIP+PROJECT:+IGNIS" />
+<img src="./assets/jarvis_neon_hud.gif" width="100%" />
 
 <br>
 
-<img src="./assets/jarvis-banner.png" width="100%" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Gagan-astatine&label=PROFILE+VIEWS&color=00ff00&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING+PRODUCTS+FOR+REAL-WORLD+PROBLEMS;CURRENT+FOCUS:+AI+AGENTS;HACKATHONS+%7C+STARTUPS+%7C+INNOVATION;FLAGSHIP+PROJECT:+IGNIS" />
 
 </div>
 
 ---
 
 ```diff
-+ SYSTEM STATUS : ACTIVE
-+ CURRENT FOCUS : AI AGENTS
-+ FLAGSHIP      : IGNIS
-+ OBJECTIVE     : PROBLEMS → SOLUTIONS
++ SYSTEM ONLINE
++ NEURAL NET CONNECTED
++ AI AGENTS INITIALIZED
++ IGNIS CORE ACTIVE
 ```
 
----
-
-# ─────────────────────────────────────
 # SYSTEM INITIALIZATION
-# ─────────────────────────────────────
 
-Hello, I'm **Gagan**.
-
-I enjoy building products that solve real-world problems through software, automation, and artificial intelligence.
-
-My work revolves around:
-
-- Building hackathon projects
-- Exploring AI Agents
-- Experimenting with startup ideas
-- Learning through shipping products
-- Solving practical problems with technology
+```text
+NAME            : GAGAN ASTATINE
+ROLE            : PROBLEM SOLVER
+MISSION         : BUILD PRODUCTS THAT SOLVE REAL-WORLD PROBLEMS
+CURRENT FOCUS   : AI AGENTS, HACKATHONS, STARTUPS
+FLAGSHIP        : IGNIS
+```
 
 ---
 
-# ─────────────────────────────────────
+# LIVE TERMINAL
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;LOADING+IDEAS...;CONVERTING+PROBLEMS+INTO+SOLUTIONS...;BUILDING+IGNIS...;EXPLORING+AI+AGENTS...;READY." />
+</p>
+
+---
+
 # CURRENT OBJECTIVES
-# ─────────────────────────────────────
 
 ```text
-[ ACTIVE ] BUILD PRODUCTS
-[ ACTIVE ] EXPLORE AI AGENTS
-[ ACTIVE ] PARTICIPATE IN HACKATHONS
-[ ACTIVE ] LEARN MODERN BACKEND SYSTEMS
-[ ACTIVE ] EXPERIMENT WITH STARTUP IDEAS
+[ACTIVE] BUILD PRODUCTS
+[ACTIVE] LEARN FAST
+[ACTIVE] EXPLORE AI AGENTS
+[ACTIVE] PARTICIPATE IN HACKATHONS
+[ACTIVE] BUILD STARTUP IDEAS
 ```
 
 ---
 
-# ─────────────────────────────────────
 # PROJECT // IGNIS
-# ─────────────────────────────────────
-
-## AI Logistics Command Center
-
-IGNIS was built to address fragmented logistics operations and transform them into intelligent decision-making systems.
-
-Instead of creating another dashboard, IGNIS aims to become a logistics command layer that helps operators make faster and smarter operational decisions.
-
-### Core Modules
 
 ```text
-ROUTE INTELLIGENCE
-DRIVER ANALYTICS
-FLEET MONITORING
-PREDICTIVE OPERATIONS
-AI DECISION SUPPORT
-WAREHOUSE VISIBILITY
+AI LOGISTICS COMMAND CENTER
 ```
 
-### Development Status
-
-```diff
-+ ACTIVE DEVELOPMENT
-```
+IGNIS aims to transform logistics operations into intelligent decision-making systems through automation, analytics, and AI-powered insights.
 
 ---
 
-# ─────────────────────────────────────
 # TECH ARSENAL
-# ─────────────────────────────────────
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+React • TypeScript
 
 ## Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+Node.js • FastAPI • Python
 
-## Database
+## Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+MySQL • Firebase
 
-## Artificial Intelligence
+## AI
 
-![Gemini](https://img.shields.io/badge/Gemini-4285F4)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991)
+Gemini • OpenAI
 
 ## Deployment
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7)
+Vercel • Render
 
 ---
 
-# ─────────────────────────────────────
 # GITHUB ANALYTICS
-# ─────────────────────────────────────
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
 
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
-<br><br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true" />
+</p>
 
 ---
 
-# ─────────────────────────────────────
-# CONTRIBUTION NETWORK
-# ─────────────────────────────────────
+# NETWORK ACTIVITY
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-astatine&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
-# ─────────────────────────────────────
 # CONTACT PROTOCOL
-# ─────────────────────────────────────
-
-### Email
 
 ```text
-astatinegagan@gmail.com
-```
-
-### LinkedIn
-
-```text
-https://www.linkedin.com/in/gaganastatine
+EMAIL    : astatinegagan@gmail.com
+LINKEDIN : https://www.linkedin.com/in/gaganastatine
 ```
 
 ---
 
-<div align="center">
+<p align="center">
 
-```text
-SYSTEM STATUS : ACTIVE
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-WORLD+PROBLEMS;MISSION+ACTIVE" />
 
-BUILDING PRODUCTS
-TESTING IDEAS
-SOLVING REAL-WORLD PROBLEMS
-
-CURRENT FOCUS:
-AI AGENTS
-HACKATHONS
-STARTUPS
-
-FLAGSHIP PROJECT:
-IGNIS
-```
-
-</div>
+</p>
