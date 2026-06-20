@@ -1,16 +1,3 @@
-<style>
-@keyframes slideInFromLeft {
-  from {
-    opacity: 0;
-    transform: translateX(-100%);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-</style>
-
 <div align="center" style="background-color: #000000; color: #00FF00; padding: 20px;">
 
 ![Jarvis Neon HUD](./assets/jarvis_neon_hud.gif)
@@ -36,7 +23,7 @@
 
 </div>
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">SYSTEM INITIALIZATION</span>
+# <span style="color: #00FF00;">SYSTEM INITIALIZATION</span>
 
 <div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
@@ -57,7 +44,7 @@ CURRENT FOCUS:
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">LIVE TERMINAL</span>
+# <span style="color: #00FF00;">LIVE TERMINAL</span>
 
 <p align="center">
 
@@ -69,7 +56,12 @@ READY FOR ACTION
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">PROJECT // IGNIS</span>
+<details>
+<summary><h1 style="display: inline; color: #00FF00;">📖 READ MORE</h1></summary>
+
+---
+
+# <span style="color: #00FF00;">PROJECT // IGNIS</span>
 
 <div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
@@ -96,7 +88,7 @@ TRANSFORM LOGISTICS INTO INTELLIGENCE
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">TECH ARSENAL</span>
+# <span style="color: #00FF00;">TECH ARSENAL</span>
 
 <p align="center">
 
@@ -119,7 +111,7 @@ Render
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">GITHUB ANALYTICS</span>
+# <span style="color: #00FF00;">GITHUB ANALYTICS</span>
 
 <p align="center">
 
@@ -133,7 +125,7 @@ Render
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">CONTRIBUTION NETWORK</span>
+# <span style="color: #00FF00;">CONTRIBUTION NETWORK</span>
 
 <p align="center">
 
@@ -143,7 +135,7 @@ Render
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">ACTIVITY GRAPH</span>
+# <span style="color: #00FF00;">ACTIVITY GRAPH</span>
 
 <p align="center">
 
@@ -153,7 +145,7 @@ Render
 
 ---
 
-# <span style="color: #00FF00; display: inline-block; animation: slideInFromLeft 0.8s ease-out;">CONTACT PROTOCOL</span>
+# <span style="color: #00FF00;">CONTACT PROTOCOL</span>
 
 <div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
@@ -178,6 +170,8 @@ SOLVING REAL-WORLD PROBLEMS
 </div>
 
 ---
+
+</details>
 
 <div style="background-color: #0a0a0a; color: #00FF00; padding: 20px; border: 2px solid #00FF00; text-align: center;">
 
