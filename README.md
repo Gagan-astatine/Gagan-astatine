@@ -1,18 +1,20 @@
-<div align="center">
+<div align="center" style="background-color: #000000; color: #00FF00; padding: 20px;">
 
-<img src="./assets/jarvis_neon_hud.gif" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING[...]
+![Jarvis Neon HUD](./assets/jarvis_neon_hud.gif)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Gagan-astatine&label=PROFILE+VIEWS&color=00ff00&style=flat" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING+SOLUTIONS)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gagan-astatine&label=PROFILE+VIEWS&color=00ff00&style=flat)
 
 </div>
 
 ---
+
+<div style="background-color: #000000; color: #00FF00; padding: 15px; border-left: 3px solid #00FF00;">
 
 ```diff
 + SYSTEM STATUS : ACTIVE
@@ -21,7 +23,11 @@
 + CURRENT MISSION : PROBLEMS → SOLUTIONS
 ```
 
-# SYSTEM INITIALIZATION
+</div>
+
+# <span style="color: #00FF00;">⚙️ SYSTEM INITIALIZATION</span>
+
+<div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
 ```text
 NAME            : GAGAN ASTATINE
@@ -36,19 +42,23 @@ CURRENT FOCUS:
 • STARTUPS
 ```
 
+</div>
+
 ---
 
-# LIVE TERMINAL
+# <span style="color: #00FF00;">🖥️ LIVE TERMINAL</span>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;LOADING+PROJECTS...;B[...]
+![Terminal Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;LOADING+PROJECTS...;BUILD+MODE:+ACTIVE)
 
 </p>
 
 ---
 
-# PROJECT // IGNIS
+# <span style="color: #00FF00;">🔥 PROJECT // IGNIS</span>
+
+<div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
 ```text
 STATUS        : ACTIVE DEVELOPMENT
@@ -69,15 +79,19 @@ TRANSFORM LOGISTICS INTO INTELLIGENCE
 └─ WAREHOUSE VISIBILITY
 ```
 
+</div>
+
 ---
 
-# TECH ARSENAL
+# <span style="color: #00FF00;">🛠️ TECH ARSENAL</span>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,mysql,firebase,vercel" />
+![Tech Stack](https://skillicons.dev/icons?i=react,ts,nodejs,python,mysql,firebase,vercel)
 
 </p>
+
+<div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
 ### Additional Technologies
 
@@ -88,43 +102,47 @@ OpenAI
 Render
 ```
 
+</div>
+
 ---
 
-# GITHUB ANALYTICS
+# <span style="color: #00FF00;">📊 GITHUB ANALYTICS</span>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true" width="32%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagan-astatine&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true" width="32%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-astatine&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-<img height="170" src="https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true" width="32%" />
+![Contribution Streak](https://streak-stats.demolab.com?user=Gagan-astatine&theme=chartreuse-dark&hide_border=true)
 
 </p>
 
 ---
 
-# CONTRIBUTION NETWORK
+# <span style="color: #00FF00;">🐍 CONTRIBUTION NETWORK</span>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Gagan-astatine/Gagan-astatine/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake Animation](https://raw.githubusercontent.com/Gagan-astatine/Gagan-astatine/output/github-contribution-grid-snake.svg)
 
 </p>
 
 ---
 
-# ACTIVITY GRAPH
+# <span style="color: #00FF00;">📈 ACTIVITY GRAPH</span>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan-astatine&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan-astatine&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true)
 
 </p>
 
 ---
 
-# CONTACT PROTOCOL
+# <span style="color: #00FF00;">📡 CONTACT PROTOCOL</span>
+
+<div style="background-color: #0a0a0a; color: #00FF00; padding: 15px; border: 1px solid #00FF00;">
 
 ```text
 EMAIL
@@ -134,15 +152,19 @@ LINKEDIN
 https://www.linkedin.com/in/gaganastatine
 ```
 
+</div>
+
 ---
 
-<div align="center">
+<div align="center" style="background-color: #000000; color: #00FF00; padding: 20px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-[...]
+![Build Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-PROBLEMS)
 
 </div>
 
 ---
+
+<div style="background-color: #0a0a0a; color: #00FF00; padding: 20px; border: 2px solid #00FF00; text-align: center;">
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -161,3 +183,5 @@ IGNIS
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+</div>
