@@ -4,8 +4,6 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+ACTIVE;PROBLEM+SOLVER;BUILDING+SOLUTIONS)
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gagan-astatine&label=PROFILE+VIEWS&color=00ff00&style=flat)
@@ -50,7 +48,9 @@ CURRENT FOCUS:
 
 <p align="center">
 
-![Terminal Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=1000&lines=INITIALIZING+SYSTEM...;LOADING+PROJECTS...;BUILD+MODE:+ACTIVE)
+INITIALIZING SYSTEM...
+LOADING PROJECTS...
+READY FOR ACTION
 
 </p>
 
@@ -158,7 +158,9 @@ https://www.linkedin.com/in/gaganastatine
 
 <div align="center" style="background-color: #000000; color: #00FF00; padding: 20px;">
 
-![Build Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=BUILDING+PRODUCTS;TESTING+IDEAS;SOLVING+REAL-PROBLEMS)
+BUILDING PRODUCTS
+TESTING IDEAS
+SOLVING REAL-WORLD PROBLEMS
 
 </div>
 
